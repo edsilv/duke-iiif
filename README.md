@@ -1,3 +1,6 @@
+
+glbs optimised using [Rapid Compact](https://www.rapidcompact.com/).
+
 Collection: https://duke-iiif.vercel.app/
 
 - [Coral Block](https://www.universalviewer.dev/#?xywh=&iiifManifestId=https%3A%2F%2Fduke-iiif-5xkrni7id-edsilv.vercel.app%2Fcoral_block%2Findex.json)
